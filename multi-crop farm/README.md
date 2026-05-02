@@ -21,7 +21,7 @@ The following items is the current brainstorming/idea on how this program works:
   - set to correct ground type for low item count
 - plant that low item count
 
-***Tree Setup***
+## Tree Setup
 Tree's are a bit interesting on how it's used and making sure that it's growing efficiently. Tree's require spacing from another tree that has been planted. The following is the current structure on how to program the planting process for tree's:
 
 - have function to identify even and odd location 
